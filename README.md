@@ -1,4 +1,4 @@
 # polymer
 Polymer Repository
 <br>
-Author - Salman
+Author - Salman Bashir - Polymer
